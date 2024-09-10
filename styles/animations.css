@@ -101,3 +101,13 @@
         opacity: 1;
     }
 }
+
+@keyframes shift{
+    from{
+      left: -20px;
+    }
+  
+    to{
+      left: -16px;
+    }
+  }
